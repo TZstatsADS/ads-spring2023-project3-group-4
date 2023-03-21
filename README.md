@@ -7,11 +7,12 @@ Term: Spring 2023
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Jiajun DU jd3881@columbia.edu
+	+ Linda LIN yl5144@columbia.edu
+	+ Xiaoxue REN xr2159@columbia.edu
+	+ Jiahao WEI jw4312@columbia.edu
+	+ Aubrey YAN xy2543@columbia.edu
+	+ Hongyan ZHOU hz2827@columbia.edu
 
 + Project summary: In this project, we created ...
 	
