@@ -17,7 +17,7 @@ Term: Spring 2023
 + Project summary: In this project, we developed two image classification models using Tensorflow's CNN. The first model was trained on noisy labels, which included convolution layers, batch normalization, and pooling techniques. However, the accuracy of this model was around 0.52, which was not satisfactory. To improve the accuracy, we modified some of the parameters of the first model and trained a new model on the first 10000 images with clean labels. We used this model for data cleaning to clean the noisy labels corresponding to the left 40000 images, and obtained new labels. We then combined the first 10000 labels with 40000 new labels to train the second model. As a result, the second model achieved a significantly improved accuracy of 0.8.
 	
 
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: Please find a_note_in_contributions.md in doc. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
