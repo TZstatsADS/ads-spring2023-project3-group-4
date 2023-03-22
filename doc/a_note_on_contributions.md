@@ -29,4 +29,4 @@ Made a model of model one using NN and SVM and tried weakly supervised learning 
 Prepared the speech for presentation.  
 
 Linda Lin:
-I constructed a reset50 model, which initially did not perform well. However, after making numerous modifications, it now takes about 10 minutes to evaluate the noisy labels and has achieved an accuracy of 0.34 for model 1. I also assisted other team members in testing the code for our final main.ipynb.
+Constructed a reset50 model, which initially did not perform well. However, after making numerous modifications, it now takes about 10 minutes to evaluate the noisy labels and has achieved an accuracy of 0.34 for model 1. I also assisted other team members in testing the code for our final main.ipynb.
