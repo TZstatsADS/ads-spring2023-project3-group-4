@@ -23,3 +23,7 @@ Constructed and trained model 1 and model 2. Used model 1 and model 2 to predict
 Jiajun Du:
 
 I made a model of model 1 using xgboost classifierfrom, and improved model 1 after discussing with the team members.  The accuracy of my initial model 1 is 0.1612.  With the improvement, the accuracy of model 1 was increased to 0.51.
+
+Jiahao Wei:
+Made a model of model one using NN and SVM and tried weakly supervised learning model in Model2 following the article but changed the sigmoid to softmax since one image only corresponds to one label, however this model performed not as well as semi-supervised learing in this project.
+Prepared the speech for presentation.  
