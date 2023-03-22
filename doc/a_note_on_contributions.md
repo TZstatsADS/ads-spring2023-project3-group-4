@@ -21,4 +21,5 @@ Hongyan Zhou:
 Constructed and trained model 1 and model 2. Used model 1 and model 2 to predict labels and calculate accuracy. Effectively shortened the training and prediction time by continuously modifying parameters and changing methods. Improved the accuracy of model 1 to 0.51 and model 2 to 0.81.
 
 Jiajun Du:
+
 I made a model of model 1 using xgboost classifierfrom, and improved model 1 after discussing with the team members.  The accuracy of my initial model1 is 0.1612.  With the improvement of the team members, the accuracy of model 1 was increased to 0.51.
