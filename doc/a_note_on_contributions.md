@@ -16,20 +16,22 @@ Summary: In this project, we developed several models and ultimately improved th
 
 [Contribution Statement] 
 
-Hongyan Zhou: 
-
-Constructed and trained model 1 and model 2 using CNN. Used model 1 and model 2 to predict labels and calculate accuracy. Effectively shortened the training and prediction time by continuously modifying parameters and changing methods. Improved the accuracy of model 1 to 0.51 and model 2 to 0.81.
-
 Jiajun Du:
-
 I made a model of model 1 using xgboost classifierfrom, and improved model 1 after discussing with the team members.  The accuracy of my initial model 1 is 0.1612.  With the improvement, the accuracy of model 1 was increased to 0.51.
-
-Jiahao Wei:
-Made a model of model one using NN and SVM and tried weakly supervised learning model in Model2 following the article but changed the sigmoid to softmax since one image only corresponds to one label, however this model performed not as well as semi-supervised learing in this project.
-Prepared the speech for presentation.  
 
 Linda Lin:
 Constructed a reset50 model, which initially did not perform well. However, after making numerous modifications, it now takes about 10 minutes to evaluate the noisy labels and has achieved an accuracy of 0.34 for model 1. I also assisted other team members in testing the code for our final main.ipynb.
 
 Xiaoxue Ren:
 Assisted other team members in building CNN model. Improved the accuracy and speed of model 1. Build model 2 and shortened the speed of model 2 by modifying layers of model 2.
+
+Jiahao Wei:
+Made a model of model one using NN and SVM and tried weakly supervised learning model in Model2 following the article but changed the sigmoid to softmax since one image only corresponds to one label, however this model performed not as well as semi-supervised learing in this project.
+Prepared the speech for presentation.  
+
+Aubrey Yan:
+As a team member, I played a crucial role in revising and refining the models developed by my group members, and the accuracy and speed of the models were improved. Additionally, I took the initiative to schedule regular meetings to ensure effective communication and collaboration within the team.
+
+
+Hongyan Zhou: 
+Constructed and trained model 1 and model 2 using CNN. Used model 1 and model 2 to predict labels and calculate accuracy. Effectively shortened the training and prediction time by continuously modifying parameters and changing methods. Improved the accuracy of model 1 to 0.51 and model 2 to 0.81.
