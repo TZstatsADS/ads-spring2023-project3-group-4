@@ -27,3 +27,6 @@ I made a model of model 1 using xgboost classifierfrom, and improved model 1 aft
 Jiahao Wei:
 Made a model of model one using NN and SVM and tried weakly supervised learning model in Model2 following the article but changed the sigmoid to softmax since one image only corresponds to one label, however this model performed not as well as semi-supervised learing in this project.
 Prepared the speech for presentation.  
+
+Linda Lin:
+I constructed a reset50 model, which initially did not perform well. However, after making numerous modifications, it now takes about 10 minutes to evaluate the noisy labels and has achieved an accuracy of 0.34 for model 1. I also assisted other team members in testing the code for our final main.ipynb.
