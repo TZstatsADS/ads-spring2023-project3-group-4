@@ -30,3 +30,6 @@ Prepared the speech for presentation.
 
 Linda Lin:
 Constructed a reset50 model, which initially did not perform well. However, after making numerous modifications, it now takes about 10 minutes to evaluate the noisy labels and has achieved an accuracy of 0.34 for model 1. I also assisted other team members in testing the code for our final main.ipynb.
+
+Xiaoxue Ren:
+Assisted other team members in building CNN model. Improved the accuracy and speed of model 1. Build model 2 and shortened the speed of model 2 by modifying layers of model 2.
