@@ -18,10 +18,4 @@ Summary: In this project, we developed several models and ultimately improved th
 
 Hongyan Zhou: 
 
-Constructed and trained model 1 and model 2. 
-
-Used model 1 and model 2 to predict labels and calculate accuracy. 
-
-Effectively shortened the training and prediction time by continuously modifying parameters and changing methods. 
-
-Improved the accuracy of model 1 to 0.51 and model 2 to 0.81.
+Constructed and trained model 1 and model 2. Used model 1 and model 2 to predict labels and calculate accuracy. Effectively shortened the training and prediction time by continuously modifying parameters and changing methods. Improved the accuracy of model 1 to 0.51 and model 2 to 0.81.
