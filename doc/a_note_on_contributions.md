@@ -30,7 +30,7 @@ Made a model of model one using NN and SVM and tried weakly supervised learning 
 Prepared the speech for presentation.  
 
 Aubrey Yan:
-As a team member, I played a crucial role in revising and refining the models developed by my group members, and the accuracy and speed of the models were improved. Additionally, I took the initiative to schedule regular meetings to ensure effective communication and collaboration within the team.
+I revised and refined the models developed by my group members such that the accuracy and speed of the models were improved. Additionally, I took the initiative to schedule regular meetings to ensure effective communication and collaboration within the team.
 
 
 Hongyan Zhou: 
