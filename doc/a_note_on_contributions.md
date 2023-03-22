@@ -6,17 +6,22 @@ Therefore, you are required to post a *contribution statement* in the root READM
 
 Post your title, team members, project abstract and a contribution statement in the README.md file.  This is a common practice for research scientific journals. 
 
-Below is an example. If no contribution statement is provided, we will insert a default statement that goes "**All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement**. "
-
 ---
-Sample project README statement.
 
 Project 3
 
-Team members: Hongyan Zhou
+Team members: Jiajun DU, Linda LIN, Xiaoxue REN, Jiahao WEI, Aubrey YAN, Hongyan ZHOU
 
 Summary: In this project, we developed several models and ultimately improved the classification accuracy for images to 81%
 
 [Contribution Statement] 
 
 Hongyan Zhou: 
+
+Constructed and trained model 1 and model 2. 
+
+Used model 1 and model 2 to predict labels and calculate accuracy. 
+
+Effectively shortened the training and prediction time by continuously modifying parameters and changing methods. 
+
+Improved the accuracy of model 1 to 0.51 and model 2 to 0.81.
