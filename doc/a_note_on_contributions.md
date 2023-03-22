@@ -17,7 +17,7 @@ Summary: In this project, we developed several models and ultimately improved th
 [Contribution Statement] 
 
 Jiajun Du:
-I made a model of model 1 using xgboost classifierfrom, and improved model 1 after discussing with the team members.  The accuracy of my initial model 1 is 0.1612.  With the improvement, the accuracy of model 1 was increased to 0.51.
+I made a model of model 1 using xgboost classifierfrom, and improved model 1 after discussing with the team members.  The accuracy of my initial model 1 is 0.1612 and it only takes 9 mins.  With the improvement, the accuracy of model 1 was increased to 0.51. Also I helpmy team members test the code of model 2.
 
 Linda Lin:
 Constructed a reset50 model, which initially did not perform well. However, after making numerous modifications, it now takes about 10 minutes to evaluate the noisy labels and has achieved an accuracy of 0.34 for model 1. I also assisted other team members in testing the code for our final main.ipynb.
