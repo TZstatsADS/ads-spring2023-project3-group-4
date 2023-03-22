@@ -22,4 +22,4 @@ Constructed and trained model 1 and model 2. Used model 1 and model 2 to predict
 
 Jiajun Du:
 
-I made a model of model 1 using xgboost classifierfrom, and improved model 1 after discussing with the team members.  The accuracy of my initial model 1 is 0.1612.  With the improvement of the team members, the accuracy of model 1 was increased to 0.51.
+I made a model of model 1 using xgboost classifierfrom, and improved model 1 after discussing with the team members.  The accuracy of my initial model 1 is 0.1612.  With the improvement, the accuracy of model 1 was increased to 0.51.
